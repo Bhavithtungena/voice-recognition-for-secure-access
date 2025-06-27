@@ -1,0 +1,27 @@
+# 🔁 Python cache and compiled files
+__pycache__/
+*.pyc
+
+# 🎙️ Audio recordings (voice samples and input)
+*.wav              # All recorded .wav files
+input.wav          # The live authentication input recording
+
+# 🧠 Machine learning model files
+*.pkl              # Model and scaler files generated after training
+
+# 📓 Jupyter notebook auto-generated folders (if used)
+.ipynb_checkpoints/
+
+# ⚙️ Virtual environment folders (if used locally)
+venv/
+.env/
+
+# 🍏 macOS hidden system file
+.DS_Store
+
+# 🪟 Windows hidden system file
+Thumbs.db
+
+# 🗒️ Temporary and log files
+*.log
+*.tmp
