@@ -1,0 +1,17 @@
+unauthorized_samples/.gitkeep
+📄 This is just an empty file. To create it manually:
+
+➤ Option A: Command Line
+bash
+Copy
+Edit
+touch unauthorized_samples/.gitkeep
+➤ Option B: Manually
+Open the unauthorized_samples/ folder
+
+Create a new file
+
+Name it exactly: .gitkeep
+
+Leave it empty and save
+ 
