@@ -1,0 +1,17 @@
+# 📚 Audio processing and feature extraction
+librosa           # Used to extract MFCC features from voice samples
+numpy             # For numerical operations (arrays, mean, reshape, etc.)
+
+# 🎙️ Recording and saving audio
+sounddevice       # Records audio from the microphone
+scipy             # Used to save recorded audio as .wav files (via scipy.io.wavfile)
+
+# 🗣️ Speech recognition and voice commands
+SpeechRecognition # Converts spoken input to text using Google Speech API
+pyttsx3           # Text-to-speech library for system responses (offline)
+
+# 📱 WhatsApp messaging
+pywhatkit         # Sends WhatsApp messages and performs YouTube searches
+
+# 🤖 Machine learning
+scikit-learn      # For SVM model, training, scaling, and prediction
