@@ -17,7 +17,7 @@ To allow **only one specific person (you)** to access system applications or exe
 1. You record your voice (`authorized_samples/`) and collect a few samples from others (`unauthorized_samples/`).
 2. MFCC features are extracted from all samples.
 3. An SVM classifier is trained to distinguish your voice from others.
-4. A secure access interface allows only your voice to control the system or send WhatsApp messages.
+4. A secure access interface allows only your voice to control the system.
 
 ---
 
